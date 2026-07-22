@@ -11,6 +11,9 @@ Please refer to the original posts on the forum if possible.<br>
 - [Elan Enterprise 64: Part 2](https://youtu.be/t0NBoGO-tGE)
 - [Elan Enterprise 64: Part 3](https://youtu.be/tRgC40CIFG8)
 
+## Pinouts
+http://ep.homeserver.hu/Dokumentacio/Konyvek/EXOS_2.1_technikal_information/hardware/pinout.html
+
 ## [Elmer's Internal RAM Expansions](/Elmer_RAM_Expansions)
 Original source (requires registration to see files):<br>
 https://enterpriseforever.com/interface/internal-memory-expansion/330/
@@ -18,19 +21,16 @@ https://enterpriseforever.com/interface/internal-memory-expansion/330/
 ## Wolfgang's RAM Expansion
 Available on Github [here](https://github.com/StupidHumansInc/EP_RAM).
 
-## Pinouts
-http://ep.homeserver.hu/Dokumentacio/Konyvek/EXOS_2.1_technikal_information/hardware/pinout.html
-
 ## [Pear's Joystick Adaptor](/Pear_Joystick_Adaptor)
 Original source (requires registration to see files):<br>
 https://enterpriseforever.com/input-devices/joystick-adapter/
 
+## SD Card Interface
+https://enterpriseforever.com/interface/sd-card-interface/495/
+
 ## Upgrades
 - [Link 1](https://enterpriseforever.com/other-topics/n00b-alert!/msg86312/)
 - [Link 2](https://archive.org/details/enterprise-64-rom-upgrade-gnd-patch)
-
-## SD Card Interface
-https://enterpriseforever.com/interface/sd-card-interface/495/
 
 ## Useful Links
 - [Enterprise Múzeum](https://ep128.hu/)
